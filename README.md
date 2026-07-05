@@ -1,6 +1,6 @@
 # ENGSE203 LAB 01 — Developer Environment & GitHub Repository Setup
 
-## ผู้จัดทำ
+## ผู้จัดทำโดย
 
 - ชื่อ-นามสกุล: ปัณณวัฒน์ สิทธิตัน
 - รหัสนักศึกษา: 68543210035
