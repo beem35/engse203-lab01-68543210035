@@ -19,6 +19,7 @@ npm run start
 ## หลักฐานผลลัพธ์
 
 วางภาพหน้าจอจาก Terminal หรือคัดลอกข้อความผลลัพธ์ไว้ที่นี่
+![alt text](<Screenshot 2569-07-20 at 10.10.10.png>)
 
 ## References & AI Assistance
 
